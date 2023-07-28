@@ -1,0 +1,34 @@
+.main3{
+    display: flex;
+}
+.sub1{
+    width: 25%;
+    height: 750px;
+    background-image: url('https://mcdn.wallpapersafari.com/medium/89/88/jaCxk5.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: 0 0 10px rgb(0, 0, 0);
+}
+.sub2{
+    width: 38%;
+    height: 730px;
+    text-align: center;
+}
+.sub3{
+    width: 37%;
+    height: 730px;
+}
+.nav-item{
+    margin-top:15%;
+    margin-left:20%;
+    margin-right: 20%;
+    color:black;
+    font-size:20px;
+}
+.btn1{
+    margin-Top:  40px;
+    margin-Left:80px;
+}
+.dbtn{
+    padding: 100px;
+}

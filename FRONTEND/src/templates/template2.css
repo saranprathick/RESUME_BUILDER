@@ -1,0 +1,60 @@
+/* 
+
+.resume-container {
+    max-width: 700px;
+    margin: 30px auto;
+    border: 1px solid #ccc;
+    padding: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    font-family: Arial, sans-serif;
+  }
+  
+  .section__title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 15px;
+    text-align: center;
+  }
+  
+  .section__list-item {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+  }
+  
+  .left {
+    flex: 1;
+  }
+  
+  .right {
+    display: flex;
+  }
+  
+  .addr,
+  .duration,
+  .desc {
+    font-size: 16px;
+    font-weight: bold;
+  }
+  
+  .skills__item {
+    margin-bottom: 8px;
+  }
+  
+  .skills__item label {
+    margin-right: 10px;
+    display: inline-block;
+  }
+  
+  .education__item {
+    margin-bottom: 10px;
+  }
+  
+  .education__item .name {
+    font-weight: bold;
+  }
+  
+  .resume-container p {
+    margin: 5px 0;
+  }
+   */

@@ -1,0 +1,49 @@
+.main{
+    display: flex;
+    padding: 40px;
+    background-color: lightblue;
+}
+.tem1{
+    height: 500px;
+    width:25%;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-image: url('https://piktochart.com/wp-content/uploads/2023/02/large-103.jpg');
+    background-position: absolute;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.tem2{
+    height: 500px;
+    width:25%;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-image: url('https://marketplace.canva.com/EAFRuCp3DcY/1/0/1131w/canva-black-white-minimalist-cv-resume-f5JNR-K5jjw.jpg');
+    background-position: absolute;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.tem3{
+    height: 500px;
+    width:25%;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-image: url('https://d.novoresume.com/images/doc/it-resume-template.png');
+    background-position: absolute;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.tem4{
+    height: 500px;
+    width:25%;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-image: url('https://www.my-resume-templates.com/wp-content/uploads/2023/05/functional-resume-template-350x495.jpg');
+    background-position: absolute;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.mainsub{
+    text-align: center;
+    padding: 30px;
+}
